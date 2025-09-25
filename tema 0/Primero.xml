@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+<manga>
+    <titulo>Monster</titulo>
+    <autor>Naoki Urasawa</autor>
+    <editorial>Planeta</editorial>
+</manga>
+<manga>
+    <titulo>The Horizon</titulo>
+    <autor>Jeong Ji-hun</autor>
+    <editorial>Kibook Ediciones</editorial>
+</manga>
+<manga>
+    <titulo>Tragones y mazmorras</titulo>
+    <autor>Ryôko Kui</autor>
+    <editorial>Milky Way</editorial>
+</manga>
+</biblioteca>
